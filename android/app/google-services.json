@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329296732142",
+    "project_id": "mobliedev",
+    "storage_bucket": "mobliedev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329296732142:android:847df759a942ccbed8b8ff",
+        "android_client_info": {
+          "package_name": "com.example.hello_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk87TFnFPOO8ZLl3cfvdSWjuV07Hn1_l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
